@@ -1,6 +1,6 @@
 ### About
 
-19-year-old software engineer (Junior+). Focused on building robust, high-performance backend systems, REST/gRPC APIs, scalable infrastructure, and lightweight system utilities.
+19-year-old software engineer. Focused on building robust, high-performance backend systems, REST/gRPC APIs, scalable infrastructure, and lightweight system utilities.
 
 🌐 **polyakov.code@gmail.com**
 
